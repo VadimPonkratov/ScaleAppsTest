@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class TestScaleApps {
+public class Test {
     public static void main(String[] args) {
 
         //проверка на наличие 2-ух аргументов
